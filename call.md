@@ -1,9 +1,8 @@
+---
 layout: page
 title: "CALL FOR PARTICIPATION"
 permalink: /call/
-
 ---
-
 # Call for Participation
 
 Deadline: June 30 2022
