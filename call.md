@@ -2,7 +2,6 @@
 layout: page
 title: "CALL FOR PARTICIPATION"
 permalink: /call/
-
 ---
 
 # Call for Participation
