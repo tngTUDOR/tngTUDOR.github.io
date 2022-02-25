@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "CALL FOR PARTICIPATION"
-permalink: /call
+permalink: /call/
 ---
 
 # Call for Participation
